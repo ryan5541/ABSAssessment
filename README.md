@@ -11,7 +11,8 @@ Does the demographic makeup for businesses opened before/after 1980s look differ
 What does the demographic makeup of employees look like in relation to the longevity of the business?
 What is the relationship between the demographic composition of a business and the business’s specialized technology use?
 
-We chose to split out each question off to an individual team member to dive deeper into the dataset. While all the data has been merged into the main branch for ease of use, a further breakdown of the data can be located in each team member’s individual branch. As we look at Question 1, information and visuals can be located in the branch belonging to Ryan (file: abs-Ryan.ipynb).
+We chose to split out each question off to an individual team member to dive deeper into the dataset. While all the data has been merged into the main branch for ease of use, a further breakdown of the data can be located in each team member’s individual branch. 
+As we look at Question 1, information and visuals can be located in the branch belonging to Ryan (file: abs-Ryan.ipynb).
 Question 2 information is located within the branch belonging to Elsa (file: census-assessment-elsa.ipynb). 
 Question 3 information is located in Emily’s branch (file: atkinson_census_notebook.ipynb). 
 And Question 4 data is located in Nolan’s branch (file: thomas -census -data.ipynb).
